@@ -1,0 +1,6 @@
+[package]
+name = "example-rust"
+version = "0.1.0"
+authors = ["John Wass <wassj@ctc.com>"]
+
+[dependencies]
