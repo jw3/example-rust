@@ -1,7 +1,7 @@
 example rust
 ===
 
-
+example project mixing rust and c++
 
 ### shared library to cpp
 - `rustc --crate-type=cdylib src/shared.rs`
@@ -24,3 +24,6 @@ Dynamic section at offset 0x133168 contains 28 entries:
     69: 0000000000002f90    68 FUNC    GLOBAL DEFAULT   11 doit
    904: 0000000000002f90    68 FUNC    GLOBAL DEFAULT   11 doit
 ```
+
+### see
+- https://github.com/actix/actix
